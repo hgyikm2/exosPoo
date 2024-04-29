@@ -1,0 +1,13 @@
+
+*{
+    border: 1px solid black;
+}
+img {
+    border: 2px solid red;
+}
+article, h1, p, figure {
+    padding: 1em;
+}
+figure {
+    /* float: left; */
+}
